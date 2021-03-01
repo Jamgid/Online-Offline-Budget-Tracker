@@ -9,11 +9,7 @@ THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH RE
 ## ![](https://img.shields.io/badge/Github-Jamgid-orange) ![](https://img.shields.io/badge/Email-Jamgid@yahoo.com-blue)
 ## ![img](https://avatars.githubusercontent.com/u/69053531?size=250)
 ## ![img](https://github.com/Jamgid/Online-Offline-Budget-Tracker/blob/main/assets/images/budget-tracker.png?raw=true)
-## Table of Contents
-1. Description
-2. Installation
-3. Usage
-4. Contributors
+
 # Description
 This app uses caching to help users keep track of their budget whether or not they have internet access, while showing a graph to respresnt events.
 # Installation
